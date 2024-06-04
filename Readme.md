@@ -2,6 +2,7 @@
 This repo provides code, slides and results for our winning entry in the VistaMilk 2024 International Data Challenge.
 
 MLGIG Team – Milk Lactose Prediction Data Challenge,4th International Workshop on Spectroscopy and Chemometrics 2024, organised by the VistaMilk SFI Research Centre.
+
 The methods and results will be described in an upcoming paper.
 
 ## Citation
