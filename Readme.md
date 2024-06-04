@@ -5,6 +5,8 @@ MLGIG Team – Milk Lactose Prediction Data Challenge,4th International Workshop
 
 The methods and results will be described in an upcoming paper.
 
+The data can be downloaded [here](https://drive.google.com/drive/folders/10Bv-trk4wb9GjK1GjUaXRvDsSU9LxyZX?usp=sharing)
+
 ## Citation
 If you use this work, please cite as:
 ```
